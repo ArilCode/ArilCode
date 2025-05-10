@@ -11,6 +11,7 @@
 
 #### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
+
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ArilCode&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ArilCode&theme=one_dark_pro&hide_border=false)<br/>
@@ -18,9 +19,6 @@
 
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArilCode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-##### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 #### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ArilCode&limit=5&theme=aura&combine_all_yearly_contributions=true)
